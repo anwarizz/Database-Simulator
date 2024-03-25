@@ -6,10 +6,6 @@ def writeBin(value):
     return fun 
 
 
-
-
-
-
 def readBin(value):
     final = ''
     shilter = ''
@@ -57,11 +53,6 @@ def readBin_newVersion_valid(value):
     return final_filter
 
 
-
-
-
-
-
 # input [x]
 def room_filter_one(from_input_user):
     final = ""
@@ -78,6 +69,7 @@ def room_filter_one(from_input_user):
         return ""
     
     return final
+
 
 # input = add [x,x,x]
 def room_filter_coma(from_input_user):
@@ -116,10 +108,6 @@ def room_filter_coma(from_input_user):
         return ""
     # mengembalikan list array
     return final
-
-
-
-
 
 
 def checking_error_if_int_has_string(f):
