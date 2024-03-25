@@ -14,12 +14,12 @@ class Main:
         if final_name == "": return
 
         if len(final_name) > 0 or final_name != 0:
-            os.mkdir(f"D:/dev/Database-simulator/databases/{final_name}.pkg")
+            os.mkdir(f"C:/dev/Database-simulator/databases/{final_name}.pkg")
             file_opener = open("dook.bin", "a")
             file_opener.write(f"{MODULEF.writeBin(final_name)}\n")
             file_opener.close()
         
-        os.mkdir(f"D:/dev/Database-simulator/databases/{final_name}.pkg/data")
+        os.mkdir(f"C:/dev/Database-simulator/databases/{final_name}.pkg/data")
 
     
     def show_databases_from_dook(self, hide):
