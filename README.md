@@ -23,8 +23,3 @@ This Python CLI Database Simulator is a command-line tool that simulates basic d
 
 This project is purely educational and serves as a learning exercise. It does not provide real database functionality and should not be used in production environments. The hardcoded path to "C:\dev" restricts its functionality to Windows systems and may not work on other operating systems.
 
-## Contact
-
-If you have any questions, suggestions, or just want to say hello, feel free to contact me.
-
-Happy coding!
