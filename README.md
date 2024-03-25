@@ -9,11 +9,11 @@ This Python CLI Database Simulator is a command-line tool that simulates basic d
 ## Requirements
 
 - Python 3.x
-- Windows operating system (due to the hardcoded path to "C:\dev")
+- Windows operating system (due to the hardcoded path to `"C:\dev"`)
 
 ## How to Use
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine. `git clone https://github.com/gettingdev/Database-Simulator`
 2. Navigate to the project directory in your command-line interface.
 3. Run the main Python script using the command: `python main.py`
 4. Follow the on-screen instructions to interact with the CLI Database Simulator.
