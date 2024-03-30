@@ -119,8 +119,7 @@ class Main:
                     file_opener = open(f"databases\\{self.info_user_position_active}.pkg\\data\\25-8#{i}Z.bin", "a")
                     file_opener.close()
 
-    # PART PALING BIKIN MALES DAN NGESELIN. BUAT SIAAPAUN YNG BACA DIMASA DEPAN -
-    # NANTI TOLONG DIPERBAIKI PROGRAMNYA YA, BUAT LEBIH EFISIEN :) kalo bisa semuanya diperbaiki hehe...
+
     def add_data(self, input_user_data):    
         if self.info_user_position_active == 0:
             print("tidak terkait database manapun\n")
@@ -261,20 +260,6 @@ class Main:
                     print(closer)
                     
                    
-                    # beres nih yang diatas. tapi coba nanti dicek lagi deh siapa tahu ada yang bolong bolong atau kesalahan yg gk di sadari+
-                    # ==========+================================================================
-                    # ============================================
-                    # =======================
-                    # =============
-                    # = oh iya, entah kenapa di terminal vscode itu jadi aneh tabelnya padahal kalo di terminal biasa sih aman aman aja
-                    # coba nanti cari tahu itu masalahnya dimana dan kenapa +++++++++++++=========
-                    #==========================
-                    #===============
-                    # masalah terminal aneh udah di fix ya tinggal di cek cek lagi aja deh :) 
-                    # =============
-                    # =====================================
-                    # ===============================
-                    # oke udah aku periksa sejauh ini aman aman aja, mungkin lanjut ke method selanjutnya ya :)
 
     def delete_line(self, input_key):
         if input_key[-1] != "]":
