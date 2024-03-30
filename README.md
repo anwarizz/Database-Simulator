@@ -24,6 +24,10 @@ This Python CLI Database Simulator is a command-line tool that simulates basic d
 2. Show databases `show databases database_name`
 3. use database `use [database_name]`
 4. create head `create head [head1, head2, head3, ...]`
+5. Adding data to table `add [data1, data2, data3, ...`
+6. Viewing all data in head/table `see all`
+7. Update line `update line [head_name: new_data]` or `update line [head1_name: new_data1, head2_name_ new_data2, head3_name: new_data3]`
+
    
 
 ## Disclaimer
