@@ -15,7 +15,7 @@ This Python CLI Database Simulator is a command-line tool that simulates basic d
 
 1. Clone this repository to your local machine. `git clone https://github.com/gettingdev/Database-Simulator`
 2. Navigate to the project directory in your command-line interface.
-3. Run the main Python script using the command: `python main.py`
+3. Run the main Python script using the command: `python main.py` or `py main.py`
 4. Follow the on-screen instructions to interact with the CLI Database Simulator.
 5. Experiment with creating databases, tables, and adding/deleting data to improve your understanding of database concepts and enhance your algorithmic and logical skills.
 
