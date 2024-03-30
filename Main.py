@@ -674,12 +674,7 @@ class Main:
 
 
 
-
-
-
-
 Do = Main()
-
 
 
 
@@ -717,16 +712,7 @@ connection_key_to_main = [Do.create_databases_all_foundation,
                           Do.see_limitStarting,
                           Do.see_limitStarting
                           # next
-
-
 ]
-
-
-
-
-
-
-
 
 
 
