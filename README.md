@@ -19,6 +19,13 @@ This Python CLI Database Simulator is a command-line tool that simulates basic d
 4. Follow the on-screen instructions to interact with the CLI Database Simulator.
 5. Experiment with creating databases, tables, and adding/deleting data to improve your understanding of database concepts and enhance your algorithmic and logical skills.
 
+## Usage
+1. Creating a new database `create database [database_name]`
+2. Show databases `show databases database_name`
+3. use database `use [database_name]`
+4. create head `create head [head1, head2, head3, ...]`
+   
+
 ## Disclaimer
 
 This project is purely educational and serves as a learning exercise. It does not provide real database functionality and should not be used in production environments. The hardcoded path to "C:\dev" restricts its functionality to Windows systems and may not work on other operating systems.
